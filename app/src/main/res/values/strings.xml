@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JPC</string>
+    <string name="stringtest">ad %d</string>
+    <string name="stringtestBtn">Call to action</string>
+</resources>
